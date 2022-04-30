@@ -1,0 +1,22 @@
+/* style.css */
+
+.first-class,
+.second-class,
+.cool-class {
+    font-family: verdana, Dejavu Sans, sans-serif;
+    background-color: #f7665c;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#one {
+    color: #2f2cd1;
+    font-size: 36px;
+}
+#two {
+    background-color: #52f768;
+    font-size: 24px;
+    font-weight: bold;
+}
